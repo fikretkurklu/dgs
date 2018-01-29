@@ -1,3 +1,0 @@
-Ajouter limite 5 vue par jours
-Faire une page pour les giveaway
-Faire des objets giveaway
